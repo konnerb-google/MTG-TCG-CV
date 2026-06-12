@@ -9,7 +9,7 @@ from easygui import *
 import wmi
 import re
 import collections
-
+# konner is the best
 # gets passed an error for no Sequence in collections
 collections.Mapping = collections.abc.Mapping
 collections.Sequence = collections.abc.Sequence
